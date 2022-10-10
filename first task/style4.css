@@ -1,0 +1,13 @@
+.body{
+    
+    background-image: url(images.png);
+    background-size: cover;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse:separate;
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: #9ab3f6;
+  }
